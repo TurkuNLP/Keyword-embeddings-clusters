@@ -1,3 +1,5 @@
 # Keyword-embeddings-clusters
-This repository contains clusters with web register keywords in French and Swedish grouped based on their word embeddings. The keywords were extracted from FreCORE and SweCORE, then paired with fastText embeddings, and finally clustered with KMeans. For details, see [TBA]. 
+These files contain the supplementary materials for the following paper:
+Hellström, Saara, Valtteri Skantsi, Anna Salmela & Veronika Laippala. Forthcoming. From keywords to key embeddings - contrasting French and Swedish web registers using multilingual deep learning. _Corpus Linguistics and Linguistic Theory_.
+
 In  the attached files, the keywords within each cluster are grouped according to the registers to which they belong. Registers without any keywords are also included to indicate the absence of the keywords in the given cluster. 
