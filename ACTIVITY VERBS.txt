@@ -1,0 +1,39 @@
+###CLUSTER: ACTIVITY VERBS			
+			
+REGISTER	FRENCH	SWEDISH	ENGLISH
+EN	modifier		edit
+			
+HI	aide		help [noun]
+HI		starta	start
+HI	utilisé		used [participle]
+HI	utiliser	använda	use
+HI		använd	use [imperative]
+HI	obtenir		get
+HI	ajouter		add
+HI	ajout		addition
+HI	ajoutant		adding
+HI	verser		pour
+HI	reposer		rest [verb]
+HI	activer		activate
+			
+ID	changer	byta	change [verb]
+ID	installer		install
+ID		tillägga	add
+ID		köra	drive [verb]
+			
+IP	découvrir		discover
+IP	garantie		warranty
+IP		hjälper	helps
+IP		kontakta	contact
+IP		insättning	deposit
+IP		erfarenhet	experience [noun]
+IP		erfarna	experienced [pl]
+			
+NB	aller	åka	go
+			
+NE			
+			
+OP		hålla	keep
+OP		låta	allow
+OP		tvingas	force [present passive]
+OP		tvinga	force [verb]
