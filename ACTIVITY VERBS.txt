@@ -1,0 +1,39 @@
+	CLUSTER		
+REGISTER	ACTIVITY VERBS		
+Encyclopedia	modifier		edit
+			
+How-to/Instructions	aide		help [noun]
+		starta	start
+	utilisé		used [participle]
+	utiliser	använda	use
+		använd	use [imperative]
+	obtenir		get
+	ajouter		add
+	ajout		addition
+	ajoutant		adding
+	verser		pour
+	reposer		rest [verb]
+	activer		activate
+			
+Interactive discussion	changer	byta	change [verb]
+	installer		install
+		tillägga	add
+		köra	drive [verb]
+			
+Informational persuasion	découvrir		discover
+	garantie		warranty
+		hjälper	helps
+		kontakta	contact
+		insättning	deposit
+		erfarenhet	experience [noun]
+		erfarna	experienced [pl]
+			
+Narrative blogs	aller	åka	go
+			
+News			
+			
+Opinion		hålla	keep
+		låta	allow
+		tvingas	force [present passive]
+		tvinga	force [verb]
+			
